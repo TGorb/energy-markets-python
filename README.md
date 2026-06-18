@@ -1,7 +1,5 @@
 # energy-markets-python
 
-# Energy Markets Python
-
 Python projects for natural gas and energy market analysis.
 Built as part of a self-directed learning roadmap toward a 
 trading floor role in energy/commodities.
